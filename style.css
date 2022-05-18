@@ -217,6 +217,11 @@
         }
     }
     
+    .banner {
+        width: 500px;
+        height: 500px;
+    }
+    
     .hero {
         position: absolute;
         top: 50%;
@@ -435,7 +440,7 @@
         color: #fff;
         background-color: #111;
         padding: 2rem;
-        text-align: center;
+        text-align: left;
         border-radius: 1rem;
         transition: all 300ms ease-in-out;
     }
